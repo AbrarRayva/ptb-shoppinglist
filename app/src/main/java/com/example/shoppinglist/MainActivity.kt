@@ -1,9 +1,9 @@
 package com.example.shoppinglist
 
-import Title
-import ItemInput
-import SearchInput
-import ShoppingList
+import com.example.shoppinglist.component.Title
+import com.example.shoppinglist.component.ItemInput
+import com.example.shoppinglist.component.SearchInput
+import com.example.shoppinglist.component.ShoppingList
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
